@@ -1,0 +1,28 @@
+{
+  "name": "angular-quickstart",
+  "description": "Quickstart app with everything what I need",
+  "version": "0.0.1",
+  "author": "elnino3800",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.0",
+    "bootstrap-sass": "3.3.6",
+    "angular-ui-router": "0.2.18"
+  },
+  "devDependencies": {
+    "browser-sync": "2.11.1",
+    "del": "^2.2.0",
+    "gulp": "3.9.1",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-clean-css": "^2.0.3",
+    "gulp-if": "^2.0.0",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-rev": "^7.0.0",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.0.7",
+    "run-sequence": "^1.1.5"
+  }
+}
